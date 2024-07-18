@@ -4,13 +4,20 @@
 
 - You must need to buy a VPS for running Allora Node
 - You can buy from : [PQ Hosting](https://pq.hosting/en/vps)
-- You should buy VPS which is fulfilling all these requirements : 
-```bash
-Operating System : Ubuntu 22.04
-CPU : Minimum of 1/2 core
-RAM : 2 to 4 GB
-Storage : SSD or NVMe with at least 5GB of space
-```
+- You should buy VPS which is fulfilling all these requirements :
+  
+## VPS Requirements
+
+|                | Minimal                  | Recommended                  |
+|----------------|--------------------------|------------------------------|
+| **RAM**        | 2   GB RAM               | 4 GB+ RAM                    |
+| **CPU Cores**  | 1 CPU cores              | 2 CPU cores                  |
+| **Disk Space** | 5 GB free disk space     | 20 GB+ free disk space (SSD) |
+| **Architecture** | amd64 CPU Architecture | amd64 CPU Architecture       |
+| **Operating System** | Ubuntu 22.04       | Ubuntu 22.04                 |
+
+
+
 ## Create Wallet & Request Faucet
 
 - Install : [Keplr Extension](https://chrome.google.com/webstore/detail/dmkamcknogkgcdfhhbddcghachkejeap)
